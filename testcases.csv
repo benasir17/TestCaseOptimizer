@@ -1,0 +1,5 @@
+ID,Title,Steps,ExpectedResult
+TC001,Login Valid,Enter correct username and password,User lands on dashboard
+TC002,Valid Login,Input valid username & password,Dashboard should appear
+TC003,Invalid Login,Enter wrong password,Show error message
+TC004,Empty Fields,Leave username and password empty,Error: Fields required
